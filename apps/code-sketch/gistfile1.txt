@@ -1,4 +1,4 @@
-name: 'Code Sketch'
+name: 'Code gistfile1.txt'
 description: 'Codepen-like desktop app that used to demonstrate your code.'
 website: 'https://code-sketch.com/'
 repository: 'https://github.com/keelii/code-sketch'
